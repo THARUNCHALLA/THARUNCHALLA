@@ -94,45 +94,6 @@
 
 ---
 
-
----
-
-## 📊 ENGINEERING SIGNALS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tharun-challa&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-challa&theme=tokyonight" width="48%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharun-challa&theme=react-dark" width="100%"/>
-
-</p>
-
----
-
-## 🧠 CORE ENGINEERING PRINCIPLES
-
-- Build systems, not UI screens  
-- Optimize before scaling breaks  
-- Reduce unnecessary complexity  
-- APIs should be predictable contracts  
-- Debug like production is already live  
-- Write code that others can maintain  
-- Clean architecture always wins  
-
----
-
-## 🎓 EDUCATION
-
-🎓 B.Tech — Electronics & Communication Engineering  
-📊 CGPA: 7.78  
-
----
-
 ## 🌐 CONNECT
 
 <p align="center">
